@@ -20,7 +20,7 @@ Talks will be assigned to milestones to schedule them for an event. Check the mi
 If your slides are online, add the url as a comment (also tweet it to [@jsoxford](https://twitter.com/jsoxford) and we'll retweet!)
 
 Thanks,
-:red_heart: The JSOxford team
+:heart: The JSOxford team
 
 #### Props
 
