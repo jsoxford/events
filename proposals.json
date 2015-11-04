@@ -14,5 +14,20 @@
     "description": "<p>Ben talks about C and C++. and their practical applications in modern web computing.</p>\n",
     "updated_at": "2015-11-04T21:08:04.983Z",
     "created_at": "2015-11-04T21:08:04.983Z"
+  },
+  {
+    "id": 115148653,
+    "type": "proposal",
+    "speaker": {
+      "id": 464482,
+      "name": "Ryan Brooks",
+      "location": "Oxford",
+      "github": "spikeheap",
+      "gravatar": "",
+      "avatar": "https://avatars.githubusercontent.com/u/464482?v=3"
+    },
+    "title": "Ryan talks about something else",
+    "description": "<p>level: beginner | advanced | expert &lt;--- YES ;-)\nlanguage: en\ntwitter: spikeheap</p>\n<h2 id=\"tags-\">tags:</h2>\n",
+    "created_at": "2015-11-04T21:11:03.000Z"
   }
 ]
