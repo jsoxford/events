@@ -2,6 +2,9 @@
 date: whatevre
 place: kljnasdf
 sutff: awsadf
+speakers:
+ - Pete
+ - Someone else
 ---
 
 # asdfkljsdgf
