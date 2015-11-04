@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1394355,
+    "type": "event",
+    "location": {},
+    "date": "Invalid date",
+    "name": "Testing event",
+    "talks": [
+      {
+        "id": 115134419,
+        "type": "talk",
+        "speaker": {
+          "id": 464482,
+          "name": "|BEN|",
+          "location": "Oxford",
+          "github": "spikeheap",
+          "gravatar": "",
+          "avatar": "https://avatars.githubusercontent.com/u/464482?v=3"
+        },
+        "title": "Ben talks about stuff",
+        "description": "<p>Ben talks about C and C++. and their practical applications in modern web computing.</p>\n",
+        "updated_at": "2015-11-04T20:44:12.460Z",
+        "created_at": "2015-11-04T20:44:12.461Z",
+        "accepted_at": "2015-11-04T20:46:58.234Z"
+      }
+    ]
+  }
+]
