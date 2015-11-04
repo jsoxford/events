@@ -1,0 +1,18 @@
+[
+  {
+    "id": 115134419,
+    "type": "proposal",
+    "speaker": {
+      "id": 51385,
+      "name": "Ben Foxall",
+      "location": "Oxford",
+      "github": "benfoxall",
+      "gravatar": "",
+      "avatar": "https://avatars.githubusercontent.com/u/51385?v=3"
+    },
+    "title": "Ben talks about stuff",
+    "description": "<p>Ben talks about C and C++. and their practical applications in modern web computing.</p>\n",
+    "updated_at": "2015-11-04T21:08:04.983Z",
+    "created_at": "2015-11-04T21:08:04.983Z"
+  }
+]
